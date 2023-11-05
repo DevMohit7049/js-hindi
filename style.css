@@ -1,0 +1,51 @@
+
+.main{
+    /* border: 2px solid red; */
+    width: 50%;
+    margin: 100px auto;
+    height: 60vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main h1{
+ text-align: center;
+}
+
+.box-1{
+
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 10px;
+}
+
+.button{
+   
+width: 100px;
+height: 15vh;
+}
+.para{
+   text-align: center;
+   font-size: 1.6rem;
+   font-weight: 600;
+}
+
+#green{
+   background-color: green;
+}
+#orange{
+background-color: orange;
+}
+
+#blue{
+background-color: blue;
+}
+#red{
+ background-color: red;
+}
+
+#gray{
+
+    color: gray;
+}
+
